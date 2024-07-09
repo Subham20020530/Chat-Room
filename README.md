@@ -40,5 +40,12 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/chat-application.git
-   cd chat-application
+   git clone https://github.com/Subham20020530/Chat-Room/
+   cd chat-Room
+
+   Usage
+Register: Create a new account.
+Login: Login with your credentials.
+Chat Rooms: Create or join chat rooms.
+Private Messaging: Send private messages to other users.
+User Presence: See which users are online.
