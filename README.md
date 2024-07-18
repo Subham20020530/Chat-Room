@@ -44,8 +44,3 @@ Make sure you have the following installed on your machine:
    cd chat-Room
 
    Usage
-Register: Create a new account.
-Login: Login with your credentials.
-Chat Rooms: Create or join chat rooms.
-Private Messaging: Send private messages to other users.
-User Presence: See which users are online.
