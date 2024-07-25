@@ -42,5 +42,3 @@ Make sure you have the following installed on your machine:
    ```bash
    git clone https://github.com/Subham20020530/Chat-Room/
    cd chat-Room
-
-   Usage
